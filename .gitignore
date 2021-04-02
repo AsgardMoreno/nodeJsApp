@@ -1,0 +1,14 @@
+# Ignore Node modules
+node_modules
+
+# Ignore build files
+build
+
+# Ignore dubug logs (frequently change)
+npm-debug.log
+
+# Ignore environment files
+.env
+
+# Ignore custome attributes of the containing folders
+.DS_Store
